@@ -1,0 +1,10 @@
+{
+  "java.project.sourcePaths": [
+    "."
+  ],
+  "java.project.outputPath": "out",
+  "java.project.referencedLibraries": [
+    "C:\\Java\\javafx-sdk-26\\lib\\*.jar"
+  ],
+  "java.configuration.updateBuildConfiguration": "automatic"
+}

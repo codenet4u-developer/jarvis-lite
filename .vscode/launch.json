@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Jarvis Lite",
+      "request": "launch",
+      "mainClass": "Jarvis",
+      "classPaths": [
+        "${workspaceFolder}\\out"
+      ],
+      "modulePaths": [
+        "C:\\Java\\javafx-sdk-26\\lib"
+      ],
+      "vmArgs": "--add-modules javafx.controls"
+    }
+  ]
+}
